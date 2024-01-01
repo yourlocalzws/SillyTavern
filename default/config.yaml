@@ -7,7 +7,7 @@ port: 8000
 whitelistMode: true
 # Whitelist of allowed IP addresses
 whitelist:
-  - 127.0.0.1
+  - 192.168.*.*
 # Toggle basic authentication for endpoints
 basicAuthMode: false
 # Basic authentication credentials
